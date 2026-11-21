@@ -81,3 +81,17 @@ Through this project, I practiced:
 - Using Airflow PythonOperator
 - Passing data between tasks using XCom
 - Orchestrating an ETL workflow with Apache Airflow
+
+## Pipeline Execution
+
+### Airflow DAG Run
+
+![Airflow Successful Run](screenshots/airflow_success.png)
+
+### MySQL Cleaned Data
+
+![MySQL Cleaned Data](screenshots/mysql_cleaned_data.png)
+
+
+
+
