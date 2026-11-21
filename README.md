@@ -86,11 +86,11 @@ Through this project, I practiced:
 
 ### Airflow DAG Run
 
-![Airflow Successful Run](screenshots/airflow_success.png)
+![Airflow Successful Run](airflow_success.png)
 
 ### MySQL Cleaned Data
 
-![MySQL Cleaned Data](screenshots/mysql_cleaned_data.png)
+![MySQL Cleaned Data](mysql_cleaned_data.png)
 
 
 
